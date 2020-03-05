@@ -1,0 +1,43 @@
+.qltb{
+    width: 668px;
+    height: 50px;
+    line-height: 50px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    margin-bottom: 10px;
+
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #3490dc;
+    border-color: #3490dc;
+    margin-top: 10px;
+}
+
+.btn-primary:hover{
+    opacity: 0.9;
+    cursor: pointer;
+    color: red;
+}
+.color-link{
+    color: red;
+}
+.color-email{
+    color: #7cff0a;
+}
+.color-email2{
+    color: #ff3a3d;
+}
+.color-black{
+    color: #1b1e21;
+}
+.margin-bottom{
+    margin-bottom: 20px
+}
+.text-align{
+    text-align:center;
+}
+
